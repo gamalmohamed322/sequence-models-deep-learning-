@@ -36,3 +36,7 @@ The GRU model achieved the highest test accuracy, while the Transformer model tr
 1. Clone the repository:
 ```bash
 git clone https://github.com/gamalmohamed322/sequence-models-deep-learning-.git
+Install the required libraries:
+pip install tensorflow numpy matplotlib
+Open the notebook:
+jupyter notebook sequence_models_imdb_sentiment.ipynb
